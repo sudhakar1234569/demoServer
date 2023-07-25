@@ -4,7 +4,7 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "Students":[
+  "students": [
     {"id":1, "name": "Sudhakar N", "age":22, "dept": "IT"},
     {"id":2, "name": "Ramesh S", "age":22, "dept": "CSE"},
     {"id":3, "name": "Gobalu M", "age":21, "dept": "ECE"},
