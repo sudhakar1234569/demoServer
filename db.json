@@ -8,7 +8,7 @@
     {"id":1, "name": "Sudhakar N", "age":22, "dept": "IT"},
     {"id":2, "name": "Ramesh S", "age":22, "dept": "CSE"},
     {"id":3, "name": "Gobalu M", "age":21, "dept": "ECE"},
-    {"id":4, "name": "Ram K", "age":22, "dept": "IT")
+    {"id":4, "name": "Ram K", "age":22, "dept": "IT"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
