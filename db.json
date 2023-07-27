@@ -1,9 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
   "students": [
   {"id": 1, "name": "Aravind S", "rollno": "19it01", "age": 22, "course": "IT", "joinDate": "28/08/2019", "duration": 4, "fees": 75000},
   {"id": 2, "name": "Emma Johnson", "rollno": "20cs02", "age": 20, "course": "Computer Science", "joinDate": "15/07/2020", "duration": 3, "fees": 68000},
@@ -56,13 +51,4 @@
   {"id": 49, "name": "Mila Roberts", "rollno": "20ee49", "age": 21, "course": "Electrical Engineering", "joinDate": "11/07/2020", "duration": 4, "fees": 75000},
   {"id": 50, "name": "James Turner", "rollno": "21cs50", "age": 22, "course": "Computer Science", "joinDate": "30/04/2021", "duration": 3, "fees": 70000}
 ]
-,
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
-    {"id": 3, "body": "It's me", "postId": 2 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
